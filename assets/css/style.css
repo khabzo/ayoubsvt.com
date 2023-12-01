@@ -3,7 +3,7 @@
 \*-----------------------------------*/
 
 /**
- * copyright 2022 codewithsadee
+ * copyright 2022 khabzo
  */
 
 
@@ -182,7 +182,7 @@ body {
 .h2,
 .h3 {
   color: var(--space-cadet-2);
-  line-height: 1.3;
+  line-height: 1.2;
   font-weight: var(--fw-800);
 }
 
