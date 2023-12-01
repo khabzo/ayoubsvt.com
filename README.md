@@ -18,7 +18,7 @@
 
 ### Demo Screeshots
 
-![AyoubSVT Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![AyoubSVT Desktop Demo](./readme-images/desktopp.png "Desktop Demo")
 
 ### Prerequisites
 
